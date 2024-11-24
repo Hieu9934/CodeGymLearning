@@ -1,0 +1,14 @@
+D:\CodeGym Courses\Demo Files\Unit4Exercise\bin\Debug\net8.0\Unit4Exercise.exe
+D:\CodeGym Courses\Demo Files\Unit4Exercise\bin\Debug\net8.0\Unit4Exercise.deps.json
+D:\CodeGym Courses\Demo Files\Unit4Exercise\bin\Debug\net8.0\Unit4Exercise.runtimeconfig.json
+D:\CodeGym Courses\Demo Files\Unit4Exercise\bin\Debug\net8.0\Unit4Exercise.dll
+D:\CodeGym Courses\Demo Files\Unit4Exercise\bin\Debug\net8.0\Unit4Exercise.pdb
+D:\CodeGym Courses\Demo Files\Unit4Exercise\obj\Debug\net8.0\Unit4Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeGym Courses\Demo Files\Unit4Exercise\obj\Debug\net8.0\Unit4Exercise.AssemblyInfoInputs.cache
+D:\CodeGym Courses\Demo Files\Unit4Exercise\obj\Debug\net8.0\Unit4Exercise.AssemblyInfo.cs
+D:\CodeGym Courses\Demo Files\Unit4Exercise\obj\Debug\net8.0\Unit4Exercise.csproj.CoreCompileInputs.cache
+D:\CodeGym Courses\Demo Files\Unit4Exercise\obj\Debug\net8.0\Unit4Exercise.dll
+D:\CodeGym Courses\Demo Files\Unit4Exercise\obj\Debug\net8.0\refint\Unit4Exercise.dll
+D:\CodeGym Courses\Demo Files\Unit4Exercise\obj\Debug\net8.0\Unit4Exercise.pdb
+D:\CodeGym Courses\Demo Files\Unit4Exercise\obj\Debug\net8.0\Unit4Exercise.genruntimeconfig.cache
+D:\CodeGym Courses\Demo Files\Unit4Exercise\obj\Debug\net8.0\ref\Unit4Exercise.dll
