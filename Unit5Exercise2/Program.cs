@@ -10,7 +10,7 @@ namespace Loops
             for (int i = 2; i < 100; i++)
             {
                 bool isPrimeNumber = true;
-                for (int j = 2; j < i; j++)
+                for (double j = 2.0; j <= Math.Sqrt(i); j++)
                 {
                     if (i % j == 0)
                     {
