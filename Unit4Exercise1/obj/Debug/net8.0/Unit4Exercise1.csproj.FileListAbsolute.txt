@@ -12,3 +12,18 @@ D:\CodeGym Courses\Demo Files\Unit4Exercise\obj\Debug\net8.0\refint\Unit4Exercis
 D:\CodeGym Courses\Demo Files\Unit4Exercise\obj\Debug\net8.0\Unit4Exercise1.pdb
 D:\CodeGym Courses\Demo Files\Unit4Exercise\obj\Debug\net8.0\Unit4Exercise1.genruntimeconfig.cache
 D:\CodeGym Courses\Demo Files\Unit4Exercise\obj\Debug\net8.0\ref\Unit4Exercise1.dll
+D:\CodeGym Courses\CodeGymLearning\Unit4Exercise1\bin\Debug\net8.0\Unit4Exercise1.exe
+D:\CodeGym Courses\CodeGymLearning\Unit4Exercise1\bin\Debug\net8.0\Unit4Exercise1.deps.json
+D:\CodeGym Courses\CodeGymLearning\Unit4Exercise1\bin\Debug\net8.0\Unit4Exercise1.runtimeconfig.json
+D:\CodeGym Courses\CodeGymLearning\Unit4Exercise1\bin\Debug\net8.0\Unit4Exercise1.dll
+D:\CodeGym Courses\CodeGymLearning\Unit4Exercise1\bin\Debug\net8.0\Unit4Exercise1.pdb
+D:\CodeGym Courses\CodeGymLearning\Unit4Exercise1\obj\Debug\net8.0\Unit4Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeGym Courses\CodeGymLearning\Unit4Exercise1\obj\Debug\net8.0\Unit4Exercise1.AssemblyInfoInputs.cache
+D:\CodeGym Courses\CodeGymLearning\Unit4Exercise1\obj\Debug\net8.0\Unit4Exercise1.AssemblyInfo.cs
+D:\CodeGym Courses\CodeGymLearning\Unit4Exercise1\obj\Debug\net8.0\Unit4Exercise1.csproj.CoreCompileInputs.cache
+D:\CodeGym Courses\CodeGymLearning\Unit4Exercise1\obj\Debug\net8.0\Unit4Exercise1.sourcelink.json
+D:\CodeGym Courses\CodeGymLearning\Unit4Exercise1\obj\Debug\net8.0\Unit4Exercise1.dll
+D:\CodeGym Courses\CodeGymLearning\Unit4Exercise1\obj\Debug\net8.0\refint\Unit4Exercise1.dll
+D:\CodeGym Courses\CodeGymLearning\Unit4Exercise1\obj\Debug\net8.0\Unit4Exercise1.pdb
+D:\CodeGym Courses\CodeGymLearning\Unit4Exercise1\obj\Debug\net8.0\Unit4Exercise1.genruntimeconfig.cache
+D:\CodeGym Courses\CodeGymLearning\Unit4Exercise1\obj\Debug\net8.0\ref\Unit4Exercise1.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CodeGym Courses\\Demo Files\\GitProject\\GitProject\\Unit5Exercise2\\Unit5Exercise2.csproj": {}
+    "D:\\CodeGym Courses\\CodeGymLearning\\Unit5Exercise2\\Unit5Exercise2.csproj": {}
   },
   "projects": {
-    "D:\\CodeGym Courses\\Demo Files\\GitProject\\GitProject\\Unit5Exercise2\\Unit5Exercise2.csproj": {
+    "D:\\CodeGym Courses\\CodeGymLearning\\Unit5Exercise2\\Unit5Exercise2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CodeGym Courses\\Demo Files\\GitProject\\GitProject\\Unit5Exercise2\\Unit5Exercise2.csproj",
+        "projectUniqueName": "D:\\CodeGym Courses\\CodeGymLearning\\Unit5Exercise2\\Unit5Exercise2.csproj",
         "projectName": "Unit5Exercise2",
-        "projectPath": "D:\\CodeGym Courses\\Demo Files\\GitProject\\GitProject\\Unit5Exercise2\\Unit5Exercise2.csproj",
+        "projectPath": "D:\\CodeGym Courses\\CodeGymLearning\\Unit5Exercise2\\Unit5Exercise2.csproj",
         "packagesPath": "C:\\Users\\Hieu.Trang\\.nuget\\packages\\",
-        "outputPath": "D:\\CodeGym Courses\\Demo Files\\GitProject\\GitProject\\Unit5Exercise2\\obj\\",
+        "outputPath": "D:\\CodeGym Courses\\CodeGymLearning\\Unit5Exercise2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

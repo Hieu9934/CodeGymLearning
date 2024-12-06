@@ -1,0 +1,14 @@
+D:\CodeGym Courses\Demo Files\Unit11Exercise2\bin\Debug\net8.0\Unit11Exercise2.exe
+D:\CodeGym Courses\Demo Files\Unit11Exercise2\bin\Debug\net8.0\Unit11Exercise2.deps.json
+D:\CodeGym Courses\Demo Files\Unit11Exercise2\bin\Debug\net8.0\Unit11Exercise2.runtimeconfig.json
+D:\CodeGym Courses\Demo Files\Unit11Exercise2\bin\Debug\net8.0\Unit11Exercise2.dll
+D:\CodeGym Courses\Demo Files\Unit11Exercise2\bin\Debug\net8.0\Unit11Exercise2.pdb
+D:\CodeGym Courses\Demo Files\Unit11Exercise2\obj\Debug\net8.0\Unit11Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeGym Courses\Demo Files\Unit11Exercise2\obj\Debug\net8.0\Unit11Exercise2.AssemblyInfoInputs.cache
+D:\CodeGym Courses\Demo Files\Unit11Exercise2\obj\Debug\net8.0\Unit11Exercise2.AssemblyInfo.cs
+D:\CodeGym Courses\Demo Files\Unit11Exercise2\obj\Debug\net8.0\Unit11Exercise2.csproj.CoreCompileInputs.cache
+D:\CodeGym Courses\Demo Files\Unit11Exercise2\obj\Debug\net8.0\Unit11Exercise2.dll
+D:\CodeGym Courses\Demo Files\Unit11Exercise2\obj\Debug\net8.0\refint\Unit11Exercise2.dll
+D:\CodeGym Courses\Demo Files\Unit11Exercise2\obj\Debug\net8.0\Unit11Exercise2.pdb
+D:\CodeGym Courses\Demo Files\Unit11Exercise2\obj\Debug\net8.0\Unit11Exercise2.genruntimeconfig.cache
+D:\CodeGym Courses\Demo Files\Unit11Exercise2\obj\Debug\net8.0\ref\Unit11Exercise2.dll
