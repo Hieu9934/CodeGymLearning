@@ -1,0 +1,14 @@
+D:\CodeGym Courses\Demo Files\Unit12Exercise1\bin\Debug\net8.0\Shape.exe
+D:\CodeGym Courses\Demo Files\Unit12Exercise1\bin\Debug\net8.0\Shape.deps.json
+D:\CodeGym Courses\Demo Files\Unit12Exercise1\bin\Debug\net8.0\Shape.runtimeconfig.json
+D:\CodeGym Courses\Demo Files\Unit12Exercise1\bin\Debug\net8.0\Shape.dll
+D:\CodeGym Courses\Demo Files\Unit12Exercise1\bin\Debug\net8.0\Shape.pdb
+D:\CodeGym Courses\Demo Files\Unit12Exercise1\obj\Debug\net8.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeGym Courses\Demo Files\Unit12Exercise1\obj\Debug\net8.0\Shape.AssemblyInfoInputs.cache
+D:\CodeGym Courses\Demo Files\Unit12Exercise1\obj\Debug\net8.0\Shape.AssemblyInfo.cs
+D:\CodeGym Courses\Demo Files\Unit12Exercise1\obj\Debug\net8.0\Shape.csproj.CoreCompileInputs.cache
+D:\CodeGym Courses\Demo Files\Unit12Exercise1\obj\Debug\net8.0\Shape.dll
+D:\CodeGym Courses\Demo Files\Unit12Exercise1\obj\Debug\net8.0\refint\Shape.dll
+D:\CodeGym Courses\Demo Files\Unit12Exercise1\obj\Debug\net8.0\Shape.pdb
+D:\CodeGym Courses\Demo Files\Unit12Exercise1\obj\Debug\net8.0\Shape.genruntimeconfig.cache
+D:\CodeGym Courses\Demo Files\Unit12Exercise1\obj\Debug\net8.0\ref\Shape.dll
