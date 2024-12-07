@@ -35,6 +35,9 @@ namespace Shape
 
             square = new Square(5.8, "yellow", true);
             Console.WriteLine(square);
+
+            square.Resize(2);
+            Console.WriteLine(square);
         }
     }
 }
