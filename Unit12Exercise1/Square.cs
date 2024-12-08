@@ -1,6 +1,6 @@
 ﻿namespace Shape
 {
-    public class Square : Rectangle, Resizeable
+    public class Square : Rectangle, Resizeable, IColorable
     {
         public Square()
         {
@@ -45,6 +45,11 @@
         public void Resize(double percent)
         {
             setSide(getSide() * percent);
+        }
+
+        public void HowToColor()
+        {
+            Console.WriteLine("Color all four sides");
         }
 
     }

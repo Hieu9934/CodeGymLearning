@@ -38,6 +38,17 @@ namespace Shape
 
             square.Resize(2);
             Console.WriteLine(square);
+
+            // Test IColorable
+            Shape[] shapeArray = new Shape[] { circle, square };
+            for (int i = 0; i < shapeArray.Length; i++)
+            {
+                if (shapeArray[i] is IColorable)
+                {
+                    //shapeArray[i] = (IColorable)shapeArray[i];
+
+                }
+            }
         }
     }
 }
