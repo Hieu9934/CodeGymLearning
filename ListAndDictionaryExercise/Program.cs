@@ -17,8 +17,8 @@ namespace ListAndDictionaryExercise
             {
                 intList.Add(int.Parse(item));
             }
-            
-            foreach (int  item in intList)
+
+            foreach (int item in intList)
             {
                 Console.Write(item + " ");
             }
@@ -64,6 +64,94 @@ namespace ListAndDictionaryExercise
 
             // Exercise 8:
             ProductList productList = new ProductList();
+        }
+
+        public void DoExercise1()
+        {
+            Console.WriteLine("Input your list of integers: ");
+            string input = Console.ReadLine();
+            string[] splitList = input.Split(' ');
+
+            List<int> intList = new List<int>();
+            foreach (string item in splitList)
+            {
+                intList.Add(int.Parse(item));
+            }
+
+            foreach (int item in intList)
+            {
+                Console.Write(item + " ");
+            }
+            Console.WriteLine();
+        }
+
+        public void DoExercise2()
+        {
+            Console.WriteLine("Input your list of integers: ");
+            string input = Console.ReadLine();
+            string[] splitList = input.Split(' ');
+
+            List<int> intList = new List<int>();
+            foreach (string item in splitList)
+            {
+                intList.Add(int.Parse(item));
+            }
+
+            intList.Sort();
+            Console.WriteLine("The largest integer is " + intList[intList.Count - 1]);
+            Console.WriteLine("The smallest integer is " + intList[0]);
+        }
+
+        public void DoExercise3()
+        {
+            Console.WriteLine("Input your list of integers: ");
+            string input = Console.ReadLine();
+            string[] splitList = input.Split(' ');
+
+            List<int> intList = new List<int>();
+            foreach (string item in splitList)
+            {
+                intList.Add(int.Parse(item));
+            }
+
+            Console.Write("Input your integer to be removed: ");
+            Int32.TryParse(Console.ReadLine(), out int removedInt);
+            intList.Remove(removedInt);
+        }
+
+        public void DoExercise4()
+        {
+            Console.WriteLine("Input your list of integers: ");
+            string input = Console.ReadLine();
+            string[] splitList = input.Split(' ');
+
+            List<int> intList = new List<int>();
+            foreach (string item in splitList)
+            {
+                intList.Add(int.Parse(item));
+            }
+            intList.Sort();
+            intList.Reverse();
+        }
+
+        public void DoExercise5()
+        {
+            Console.WriteLine("Input your paragraph: ");
+            string paragraph = Console.ReadLine();
+            string[] words = paragraph.Split(' ');
+            Dictionary<string, int> wordCount = new Dictionary<string, int>();
+
+            foreach (string word in words)
+            {
+                if (wordCount.ContainsKey(word))
+                {
+                    wordCount[word]++;
+                }
+                else
+                {
+                    wordCount.Add(word, 1);
+                }
+            }
         }
     }
 
