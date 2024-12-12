@@ -7,63 +7,7 @@ namespace ListAndDictionaryExercise
     {
         public static void Main(string[] args)
         {
-            // Exercise 1:
-            Console.WriteLine("Input your list of integers: ");
-            string input = Console.ReadLine();
-            string[] splitList = input.Split(' ');
-
-            List<int> intList = new List<int>();
-            foreach (string item in splitList)
-            {
-                intList.Add(int.Parse(item));
-            }
-
-            foreach (int item in intList)
-            {
-                Console.Write(item + " ");
-            }
-            Console.WriteLine();
-
-            // Exercise 2:
-            intList.Sort();
-            Console.WriteLine("The largest integer is " + intList[intList.Count - 1]);
-            Console.WriteLine("The smallest integer is " + intList[0]);
-
-            // Exercise 3:
-            Console.Write("Input your integer to be removed: ");
-            Int32.TryParse(Console.ReadLine(), out int removedInt);
-            intList.Remove(removedInt);
-
-            // Exercise 4:
-            intList.Sort();
-            intList.Reverse();
-
-            // Exercise 5:
-            Console.WriteLine("Input your paragraph: ");
-            string paragraph = Console.ReadLine();
-            string[] words = paragraph.Split(' ');
-            Dictionary<string, int> wordCount = new Dictionary<string, int>();
-
-            foreach (string word in words)
-            {
-                if (wordCount.ContainsKey(word))
-                {
-                    wordCount[word]++;
-                }
-                else
-                {
-                    wordCount.Add(word, 1);
-                }
-            }
-
-            // Exercise 6:
-            PhoneNumberList phoneNumbers = new PhoneNumberList();
-
-            // Exercise 7:
-            StudentList studentList = new StudentList();
-
-            // Exercise 8:
-            ProductList productList = new ProductList();
+            
         }
 
         public List<int> GetIntList()
