@@ -66,7 +66,7 @@ namespace ListAndDictionaryExercise
             ProductList productList = new ProductList();
         }
 
-        public void DoExercise1()
+        public List<int> GetIntList()
         {
             Console.WriteLine("Input your list of integers: ");
             string input = Console.ReadLine();
@@ -77,6 +77,12 @@ namespace ListAndDictionaryExercise
             {
                 intList.Add(int.Parse(item));
             }
+
+            return intList;
+        }
+        public void DoExercise1()
+        {
+            List<int> intList = GetIntList();
 
             foreach (int item in intList)
             {
@@ -87,15 +93,7 @@ namespace ListAndDictionaryExercise
 
         public void DoExercise2()
         {
-            Console.WriteLine("Input your list of integers: ");
-            string input = Console.ReadLine();
-            string[] splitList = input.Split(' ');
-
-            List<int> intList = new List<int>();
-            foreach (string item in splitList)
-            {
-                intList.Add(int.Parse(item));
-            }
+            List<int> intList = GetIntList();
 
             intList.Sort();
             Console.WriteLine("The largest integer is " + intList[intList.Count - 1]);
@@ -104,15 +102,7 @@ namespace ListAndDictionaryExercise
 
         public void DoExercise3()
         {
-            Console.WriteLine("Input your list of integers: ");
-            string input = Console.ReadLine();
-            string[] splitList = input.Split(' ');
-
-            List<int> intList = new List<int>();
-            foreach (string item in splitList)
-            {
-                intList.Add(int.Parse(item));
-            }
+            List<int> intList = GetIntList();
 
             Console.Write("Input your integer to be removed: ");
             Int32.TryParse(Console.ReadLine(), out int removedInt);
@@ -121,15 +111,7 @@ namespace ListAndDictionaryExercise
 
         public void DoExercise4()
         {
-            Console.WriteLine("Input your list of integers: ");
-            string input = Console.ReadLine();
-            string[] splitList = input.Split(' ');
-
-            List<int> intList = new List<int>();
-            foreach (string item in splitList)
-            {
-                intList.Add(int.Parse(item));
-            }
+            List<int> intList = GetIntList();
             intList.Sort();
             intList.Reverse();
         }
